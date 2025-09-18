@@ -149,4 +149,7 @@ oof_predictions*.csv – out-of-fold scores/preds
 
 metrics_summary*.json – Balanced Accuracy, ROC-AUC, PR-AUC, Recall, F1, chosen thresholds/hyperparams
 
+<img width="415" height="192" alt="output" src="https://github.com/user-attachments/assets/b8d3094a-9685-4237-8e17-914c5fc6eedc" />
+
+
 All preprocessing and SMOTE occur inside the training folds to prevent data leakage.
